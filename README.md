@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My I am Varad Deshmukh and I'm a Software Engineer </p>
+<p align="left">I am Varad Deshmukh </p>
 
 ###
 
